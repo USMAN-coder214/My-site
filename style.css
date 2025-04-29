@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  color: #0f738a;
+}
+h2 {
+  color: #0f738a;
+}
+h3 {
+  color: #0f738a;
+}
+p {
+  font-size: 20px;
+  font-weight: 15px;
+}
+.color {
+  color: #0f738a;
+}
+.top {
+  background: #e4f5f9;
+  position: relative;
+  padding-top: 100px;
+}
+/* .middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+.bottom {
+  background-color: rgb(34, 30, 224);
+  height: 200px;
+  width: 200px;
+} */
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  top: 220px;
+}
+.top-cloud {
+  position: relative;
+  top: 30px;
+  left: 150px;
+}
+.pic {
+  margin-top: 30;
+  border-radius: 45px;
+}
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: grey;
+  border-width: 2px;
+  width: 5%;
+}
+.picture {
+  margin-right: 300px;
+}
+.center {
+  margin-left: 415px;
+  margin-right: auto;
+}
+.button {
+  background-color: #0f738a; /* Green background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Top-Bottom + Left-Right padding */
+  border: none; /* Remove border */
+  border-radius: 8 px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  font-size: 16px;
+  margin-top: 20px;
+}
+.button:hover {
+  background-color: #5f868f;
+}
+.bottom-container {
+  background-color: #0f738a;
+  height: 100px;
+  margin-top: 30px;
+}
+.class {
+  margin-top: 20px;
+}
